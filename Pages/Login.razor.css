@@ -1,0 +1,92 @@
+﻿
+
+h1 {
+    height: 10%;
+}
+
+section {
+    margin: auto;
+    width: 60vw;
+    height: 30vw;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    filter: drop-shadow(0 0 0.25rem rgb(48, 48, 48));
+}
+
+input[type="text"] {
+    offset: 200px;
+    margin: auto;
+    text-indent: 10px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    border: 3px solid #a9a9a9;
+    padding: 2px;
+    border-radius: 2vh;
+}
+
+input[type="submit"] {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: #78BE42;
+    border: 3px solid #78BE42;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 2vh;
+}
+
+b {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: #78BE42;
+    border: 3px solid #78BE42;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 2vh;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 50vw;
+}
+
+a {
+    color: #a9a9a9;
+}
+
+input[type=create] {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 2vh;
+    align-self: center;
+}
+
+input[type=password] {
+    width: 37.25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 2vh;
+}
+
+button {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    color: #a9a9a9;
+}
